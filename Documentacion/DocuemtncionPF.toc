@@ -5,7 +5,7 @@
 \contentsline {section}{\numberline {2}Implementación de la Base de Datos}{4}{section.2}%
 \contentsline {subsection}{\numberline {2.1}Creación de la BD y Tablas}{4}{subsection.2.1}%
 \contentsline {subsection}{\numberline {2.2}Llenado de la base de datos}{5}{subsection.2.2}%
-\contentsline {section}{\numberline {3}Consultas SQL solicitadas}{7}{section.3}%
+\contentsline {section}{\numberline {3}Consultas SQL}{7}{section.3}%
 \contentsline {subsection}{\numberline {3.1}Consulta 1: Productos disponibles por categoría}{7}{subsection.3.1}%
 \contentsline {subsection}{\numberline {3.2}Consulta 2: Clientes con pedidos pendientes y cuánto dinero gastaron}{8}{subsection.3.2}%
 \contentsline {subsection}{\numberline {3.3}Consulta 3: Top 5 productos mejor calificados}{8}{subsection.3.3}%
