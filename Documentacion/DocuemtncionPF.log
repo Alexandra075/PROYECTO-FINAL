@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.6.1)  11 JUL 2026 11:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.6.1)  13 JUL 2026 18:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -578,7 +578,7 @@ LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
 Package rerunfilecheck Info: File `DocuemtncionPF.out' has not changed.
-(rerunfilecheck)             Checksum: 9B69762616C8A229E7C7931341D4CA84;6648.
+(rerunfilecheck)             Checksum: B3323D11138E02D41385D87A089D56B2;6636.
  ) 
 Here is how much of TeX's memory you used:
  15089 strings out of 467871
@@ -589,7 +589,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  75i,8n,79p,588b,2197s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/jokeb/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/jokeb/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/jokeb/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/jokeb/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/jokeb/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/jokeb/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Users/jokeb/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on DocuemtncionPF.pdf (19 pages, 4313157 bytes).
+Output written on DocuemtncionPF.pdf (19 pages, 4313363 bytes).
 PDF statistics:
  890 PDF objects out of 1000 (max. 8388607)
  542 named destinations out of 1000 (max. 500000)

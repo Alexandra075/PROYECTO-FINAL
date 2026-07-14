@@ -18,11 +18,11 @@
 \contentsline {subsection}{\numberline {4.4}Procedimiento 4: Cambiar estado de pedido}{13}{subsection.4.4}%
 \contentsline {subsection}{\numberline {4.5}Procedimiento 5: Eliminar eeseña}{13}{subsection.4.5}%
 \contentsline {subsection}{\numberline {4.6}Procedimiento 6: Agregar producto (validar duplicados)}{14}{subsection.4.6}%
-\contentsline {subsection}{\numberline {4.7}Procedimiento 7: Actualizar Información de Cliente}{15}{subsection.4.7}%
-\contentsline {subsection}{\numberline {4.8}Procedimiento 8: Reporte de Stock Bajo}{16}{subsection.4.8}%
+\contentsline {subsection}{\numberline {4.7}Procedimiento 7: Actualizar información de cliente}{15}{subsection.4.7}%
+\contentsline {subsection}{\numberline {4.8}Procedimiento 8: Reporte de stock bajo}{16}{subsection.4.8}%
 \contentsline {section}{\numberline {5}Optimización y rendimiento}{16}{section.5}%
 \contentsline {subsection}{\numberline {5.1}Creación de indices}{16}{subsection.5.1}%
 \contentsline {subsection}{\numberline {5.2}Análisis EXPLAIN}{17}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3}Propuestas de Mejoras}{17}{subsection.5.3}%
-\contentsline {section}{\numberline {6}Conclusiones}{18}{section.6}%
+\contentsline {subsection}{\numberline {5.3}Propuestas de mjoras}{17}{subsection.5.3}%
+\contentsline {section}{\numberline {6}Conclusión}{18}{section.6}%
 \contentsline {section}{\numberline {7}Link al repositorio de GitHub}{18}{section.7}%
